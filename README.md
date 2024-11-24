@@ -134,3 +134,17 @@ Best performing models based on Testing R²:
 - Explore deep learning approaches
 - Incorporate temporal features to capture trends
 - Consider including artist and album popularity metrics
+
+## Contributors
+
+- **Janojit Chakraborty** - [GitHub: Janojit](https://github.com/Janojit)
+- **Supriya Dutta**
+
+## Contact
+
+For any questions, feedback, or support, please reach out to the project maintainer:
+
+- **Janojit Chakraborty**:
+  - **LinkedIn**: [Janojit Chakraborty](https://www.linkedin.com/in/janojit-chakraborty-a50a25235/)
+
+---
