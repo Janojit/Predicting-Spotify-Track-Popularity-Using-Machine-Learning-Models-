@@ -1,7 +1,7 @@
 # Predicting Spotify Track Popularity Using Machine Learning Models
 
 ## Abstract
-This study explores the application of various machine learning models to predict the popularity of music tracks on Spotify. Using a comprehensive dataset of track features, we implemented and compared multiple regression models, including traditional algorithms and advanced ensemble techniques. The research demonstrates that ensemble methods, particularly the Voting Regressor, achieve the best performance with a testing R² value of approximately 0.49. The study provides insights into the relationship between audio features and track popularity, offering valuable implications for music industry stakeholders.
+This study explores the application of various machine learning models to predict the popularity of music tracks on Spotify. Using a comprehensive dataset of track features, we implemented and compared multiple regression models, including traditional algorithms and advanced ensemble techniques. The research demonstrates that ensemble methods, particularly the Voting Regressor, achieve the best performance with a testing R² value of approximately 0.43. The study provides insights into the relationship between audio features and track popularity, offering valuable implications for music industry stakeholders.
 
 ## Introduction
 
@@ -99,11 +99,8 @@ The target variable is 'popularity', representing a track's popularity score on 
 ## Results
 
 ### Model Performance Comparison
-Best performing models based on Testing R²:
-1. Voting Regressor (R² ≈ 0.49)
-2. Neural Ensemble (R² ≈ 0.48)
-3. Random Forest (R² ≈ 0.45)
-4. Gradient Boosting (R² ≈ 0.41)
+Best performing model based on Testing R²:
+Voting Regressor (R² ≈ 0.43)
 
 ### Error Metrics
 - MAE and MSE values show consistent patterns with R² scores
